@@ -1,5 +1,5 @@
 import os,sys,math
 if __name__=='__main__':
-  y=math.exp(6.95)*6
-  k=y*math.tan(4.8)
-  print(k*1)
+  y=math.exp(2.12)*8
+  k=y*math.tan(6.5)
+  print(k*9)
